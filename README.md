@@ -1,4 +1,5 @@
 # Simple-Event-Audio
+[![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Ricepaste/Simple-Event-Audio/blob/v1.0/LICENSE)
 
 ## 介紹
 因為 Windows Media Player 太爛，我在頒獎典禮前 24 小時內寫出了這個支援自動 Crossfade 和零延遲的音控小軟體
