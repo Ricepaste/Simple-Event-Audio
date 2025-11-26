@@ -1,0 +1,8 @@
+build
+dist
+music list
+*.exe
+*.spec
+*.zip
+.venv
+.vscode
